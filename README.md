@@ -1,6 +1,6 @@
 # brands_info_app
 
-A simple app that displays information about brands
+Simple app that displays information about brands
 
 ## UI
 
